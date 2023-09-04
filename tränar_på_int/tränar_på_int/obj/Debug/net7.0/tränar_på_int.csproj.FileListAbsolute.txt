@@ -1,0 +1,14 @@
+C:\exercises\tränar_på_int\tränar_på_int\bin\Debug\net7.0\tränar_på_int.exe
+C:\exercises\tränar_på_int\tränar_på_int\bin\Debug\net7.0\tränar_på_int.deps.json
+C:\exercises\tränar_på_int\tränar_på_int\bin\Debug\net7.0\tränar_på_int.runtimeconfig.json
+C:\exercises\tränar_på_int\tränar_på_int\bin\Debug\net7.0\tränar_på_int.dll
+C:\exercises\tränar_på_int\tränar_på_int\bin\Debug\net7.0\tränar_på_int.pdb
+C:\exercises\tränar_på_int\tränar_på_int\obj\Debug\net7.0\tränar_på_int.GeneratedMSBuildEditorConfig.editorconfig
+C:\exercises\tränar_på_int\tränar_på_int\obj\Debug\net7.0\tränar_på_int.AssemblyInfoInputs.cache
+C:\exercises\tränar_på_int\tränar_på_int\obj\Debug\net7.0\tränar_på_int.AssemblyInfo.cs
+C:\exercises\tränar_på_int\tränar_på_int\obj\Debug\net7.0\tränar_på_int.csproj.CoreCompileInputs.cache
+C:\exercises\tränar_på_int\tränar_på_int\obj\Debug\net7.0\tränar_på_int.dll
+C:\exercises\tränar_på_int\tränar_på_int\obj\Debug\net7.0\refint\tränar_på_int.dll
+C:\exercises\tränar_på_int\tränar_på_int\obj\Debug\net7.0\tränar_på_int.pdb
+C:\exercises\tränar_på_int\tränar_på_int\obj\Debug\net7.0\tränar_på_int.genruntimeconfig.cache
+C:\exercises\tränar_på_int\tränar_på_int\obj\Debug\net7.0\ref\tränar_på_int.dll

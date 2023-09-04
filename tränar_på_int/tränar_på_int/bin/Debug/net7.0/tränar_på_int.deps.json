@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "tränar_på_int/1.0.0": {
+        "runtime": {
+          "tränar_på_int.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tränar_på_int/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
