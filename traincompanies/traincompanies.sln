@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enkel lista över tågföretag i Sverige", "Enkel lista över tågföretag i Sverige\Enkel lista över tågföretag i Sverige.csproj", "{B2661BF6-30C1-4525-918B-2AF2955478AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2661BF6-30C1-4525-918B-2AF2955478AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2661BF6-30C1-4525-918B-2AF2955478AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2661BF6-30C1-4525-918B-2AF2955478AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2661BF6-30C1-4525-918B-2AF2955478AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68148E02-5C8F-4F14-9B18-2F92CFD7CBED}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\exercises\traincompanies\Enkel lista över tågföretag i Sverige\bin\Debug\net7.0\Enkel lista över tågföretag i Sverige.exe
+C:\exercises\traincompanies\Enkel lista över tågföretag i Sverige\bin\Debug\net7.0\Enkel lista över tågföretag i Sverige.deps.json
+C:\exercises\traincompanies\Enkel lista över tågföretag i Sverige\bin\Debug\net7.0\Enkel lista över tågföretag i Sverige.runtimeconfig.json
+C:\exercises\traincompanies\Enkel lista över tågföretag i Sverige\bin\Debug\net7.0\Enkel lista över tågföretag i Sverige.dll
+C:\exercises\traincompanies\Enkel lista över tågföretag i Sverige\bin\Debug\net7.0\Enkel lista över tågföretag i Sverige.pdb
+C:\exercises\traincompanies\Enkel lista över tågföretag i Sverige\obj\Debug\net7.0\Enkel lista över tågföretag i Sverige.GeneratedMSBuildEditorConfig.editorconfig
+C:\exercises\traincompanies\Enkel lista över tågföretag i Sverige\obj\Debug\net7.0\Enkel lista över tågföretag i Sverige.AssemblyInfoInputs.cache
+C:\exercises\traincompanies\Enkel lista över tågföretag i Sverige\obj\Debug\net7.0\Enkel lista över tågföretag i Sverige.AssemblyInfo.cs
+C:\exercises\traincompanies\Enkel lista över tågföretag i Sverige\obj\Debug\net7.0\Enkel lista över tågföretag i Sverige.csproj.CoreCompileInputs.cache
+C:\exercises\traincompanies\Enkel lista över tågföretag i Sverige\obj\Debug\net7.0\Enkel lista över tågföretag i Sverige.dll
+C:\exercises\traincompanies\Enkel lista över tågföretag i Sverige\obj\Debug\net7.0\refint\Enkel lista över tågföretag i Sverige.dll
+C:\exercises\traincompanies\Enkel lista över tågföretag i Sverige\obj\Debug\net7.0\Enkel lista över tågföretag i Sverige.pdb
+C:\exercises\traincompanies\Enkel lista över tågföretag i Sverige\obj\Debug\net7.0\Enkel lista över tågföretag i Sverige.genruntimeconfig.cache
+C:\exercises\traincompanies\Enkel lista över tågföretag i Sverige\obj\Debug\net7.0\ref\Enkel lista över tågföretag i Sverige.dll
