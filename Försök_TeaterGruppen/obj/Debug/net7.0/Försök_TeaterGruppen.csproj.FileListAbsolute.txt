@@ -1,0 +1,14 @@
+C:\exercises\Försök_TeaterGruppen\bin\Debug\net7.0\Försök_TeaterGruppen.exe
+C:\exercises\Försök_TeaterGruppen\bin\Debug\net7.0\Försök_TeaterGruppen.deps.json
+C:\exercises\Försök_TeaterGruppen\bin\Debug\net7.0\Försök_TeaterGruppen.runtimeconfig.json
+C:\exercises\Försök_TeaterGruppen\bin\Debug\net7.0\Försök_TeaterGruppen.dll
+C:\exercises\Försök_TeaterGruppen\bin\Debug\net7.0\Försök_TeaterGruppen.pdb
+C:\exercises\Försök_TeaterGruppen\obj\Debug\net7.0\Försök_TeaterGruppen.GeneratedMSBuildEditorConfig.editorconfig
+C:\exercises\Försök_TeaterGruppen\obj\Debug\net7.0\Försök_TeaterGruppen.AssemblyInfoInputs.cache
+C:\exercises\Försök_TeaterGruppen\obj\Debug\net7.0\Försök_TeaterGruppen.AssemblyInfo.cs
+C:\exercises\Försök_TeaterGruppen\obj\Debug\net7.0\Försök_TeaterGruppen.csproj.CoreCompileInputs.cache
+C:\exercises\Försök_TeaterGruppen\obj\Debug\net7.0\Försök_TeaterGruppen.dll
+C:\exercises\Försök_TeaterGruppen\obj\Debug\net7.0\refint\Försök_TeaterGruppen.dll
+C:\exercises\Försök_TeaterGruppen\obj\Debug\net7.0\Försök_TeaterGruppen.pdb
+C:\exercises\Försök_TeaterGruppen\obj\Debug\net7.0\Försök_TeaterGruppen.genruntimeconfig.cache
+C:\exercises\Försök_TeaterGruppen\obj\Debug\net7.0\ref\Försök_TeaterGruppen.dll
