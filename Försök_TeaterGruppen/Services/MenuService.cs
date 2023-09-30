@@ -9,20 +9,22 @@ namespace Försök_TeaterGruppen.Services;
 
 public class MenuService
 {
-    private readonly ActerMember acterMember = new ActerMember();
+    private readonly ActerService _acterService = new ActerService();
 
     
     public void MainMenu()
     {
+        
         var exit = false;
 
         do
         {
             Console.Clear();
-            Console.WriteLine("Välj ett av följande alternativ (0-4): ");
+            Console.WriteLine("Välj ett av följande alternativ (0-5): ");
             Console.WriteLine("1. Skapa en ny användare");
-            Console.WriteLine("3. Visa alla användare");
-            Console.WriteLine("2. Visa en specifik användare");           
+            Console.WriteLine("2. Visa alla användare");
+            Console.WriteLine("3. Visa en specifik användare"); 
+            Console.WriteLine("4. Radera en medlem ur gruppen");
             Console.WriteLine("0. Avsluta");
             var option = Console.ReadLine();
 
@@ -32,15 +34,26 @@ public class MenuService
                     CreateMenu();
                     break;
                 case ("2"):
+                    GetAllActerMembers();
+                    
                     break; 
                 case ("3"):
+                    GetOneActerMember();
+                    
+                    break;
+                case ("4"):
+                    RemoveActerMember();
+              
                     break;
                 case ("0"):
+                    exit = true;
+                   
                     break;
                 default:
                     break;
 
             }
+           
         }
         while (exit == false); 
 
@@ -51,9 +64,11 @@ public class MenuService
         Console.WriteLine("Skapa en ny användare");
         Console.WriteLine("---------------------");
 
+
         var actermember = new ActerMember();
-        Console.Write("Skapa en ny användare");
-        actermember.Create(actermember);
+
+        Console.Write("Ange Gruppnamn: ");
+        actermember.ActerGroupName = Console.ReadLine();
 
         Console.Write("Förnamn: ");
         actermember.FirstName = Console.ReadLine()!.Trim();
@@ -65,32 +80,27 @@ public class MenuService
         actermember.Email = Console.ReadLine()!.Trim().ToLower();
 
 
+
+        _acterService.AddActerMemberToList(actermember);
         Console.WriteLine("En ny teatermedlem har lagts till.");
         Console.ReadKey();
-    }
 
-    public void AddActerMemberMenu()
+
+    }
+    public void GetAllActerMembers()
     {
-        var actermember = new ActerMember();
-        Console.WriteLine("Ange Gruppnamn: ");
-        _actermembers.Add(actermember);
-
-        Console.Write("");
-        Console.Write("Ange gruppnamn: ");
-        actermember.ActerGroupName = Console.ReadLine()!.Trim();
-        Console.Write("Ange Förnamn: ");
-        actermember.FirstName = Console.ReadLine()!.Trim();
-        Console.Write("Ange Efternamn: ");
-        actermember.LastName = Console.ReadLine()!.Trim();
-        Console.Write("Ange emailadress: ");
-        actermember.Email = Console.ReadLine()!.Trim().ToLower();
-        Console.Write("");
-
-        _actermembers.Create(actermember);
-
-        Console.ReadKey();
-    
+      
 
     }
+    public void GetOneActerMember()
+    {
+        
+    }
+    public void RemoveActerMember()
+    {
+        
+    }
 
+    
+    
 }

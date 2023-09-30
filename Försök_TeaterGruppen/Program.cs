@@ -1,4 +1,5 @@
 ﻿using Försök_TeaterGruppen.Models;
+using Försök_TeaterGruppen.Services;
 
-var actermember = new ActerMember();
-Console.WriteLine();
+var menuService = new MenuService();
+menuService.MainMenu(); 
