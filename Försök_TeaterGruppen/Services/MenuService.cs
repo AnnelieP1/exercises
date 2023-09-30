@@ -21,9 +21,9 @@ public class MenuService
         {
             Console.Clear();
             Console.WriteLine("Välj ett av följande alternativ (0-5): ");
-            Console.WriteLine("1. Skapa en ny användare");
-            Console.WriteLine("2. Visa alla användare");
-            Console.WriteLine("3. Visa en specifik användare"); 
+            Console.WriteLine("1. Skapa en ny medlem");
+            Console.WriteLine("2. Visa alla medlemmar");
+            Console.WriteLine("3. Visa en specifik medlem"); 
             Console.WriteLine("4. Radera en medlem ur gruppen");
             Console.WriteLine("0. Avsluta");
             var option = Console.ReadLine();
@@ -61,8 +61,8 @@ public class MenuService
     public void CreateMenu()
     {
         Console.Clear();
-        Console.WriteLine("Skapa en ny användare");
-        Console.WriteLine("---------------------");
+        Console.WriteLine("Skapa en ny medlem");
+        Console.WriteLine("------------------");
 
 
         var actermember = new ActerMember();
@@ -89,18 +89,36 @@ public class MenuService
     }
     public void GetAllActerMembers()
     {
-      
-
+        var actermembers = _acterService.GetAllActerMembers();
+        foreach (var actermember in actermembers)
+        {
+            Console.WriteLine(actermember.FullName);
+            Console.WriteLine();
+                
+        }
+        Console.ReadKey ();
     }
     public void GetOneActerMember()
     {
+        Console.Write("Ange teatermedlemmens gruppnamn, förnamn, efternamn och emailadress: ");
+        var fullname = Console.ReadLine();
+        var actermember = _acterService.GetOneActerMember(fullname);
+        Console.WriteLine(actermember.FullName);
+        Console.WriteLine();
+        Console.ReadKey ();
         
     }
+
     public void RemoveActerMember()
     {
+        Console.Write("Ange teatermedlemmens gruppnamn, förnamn, efternamn och emailadress: ");
+        var fullname = Console.ReadLine();
+        _acterService.RemoveActerMember(fullname);
+        
         
     }
 
     
+        
     
 }
