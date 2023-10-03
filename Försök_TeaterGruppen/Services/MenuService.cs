@@ -14,7 +14,8 @@ public class MenuService
     
     public void MainMenu()
     {
-        
+        _acterService.GetAllActerMembers();
+
         var exit = false;
 
         do

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/vUffNxXddGa8brHXzyOTd+ZOsngROmtypqRcMTVadbg7yISTTUHl+lPAwvjirIKDondfkaVw/k3eCUDElAytw==",
+  "dgSpecHash": "a0jIHGdrE5Dj7xa26hqtaEBEs1FXUdIB/oagokUk34I/nxW1S167THRRxLs/E2FkYM97XHfo80bfPzF0GLJl4Q==",
   "success": true,
   "projectFilePath": "C:\\exercises\\Försök_TeaterGruppen\\Försök_TeaterGruppen.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\gydan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

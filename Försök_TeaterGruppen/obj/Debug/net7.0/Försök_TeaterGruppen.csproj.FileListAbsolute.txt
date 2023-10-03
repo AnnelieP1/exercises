@@ -12,3 +12,6 @@ C:\exercises\Försök_TeaterGruppen\obj\Debug\net7.0\refint\Försök_TeaterGrupp
 C:\exercises\Försök_TeaterGruppen\obj\Debug\net7.0\Försök_TeaterGruppen.pdb
 C:\exercises\Försök_TeaterGruppen\obj\Debug\net7.0\Försök_TeaterGruppen.genruntimeconfig.cache
 C:\exercises\Försök_TeaterGruppen\obj\Debug\net7.0\ref\Försök_TeaterGruppen.dll
+C:\exercises\Försök_TeaterGruppen\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\exercises\Försök_TeaterGruppen\obj\Debug\net7.0\Försök_TeaterGruppen.csproj.AssemblyReference.cache
+C:\exercises\Försök_TeaterGruppen\obj\Debug\net7.0\Försök_TeaterGruppen.csproj.CopyComplete
